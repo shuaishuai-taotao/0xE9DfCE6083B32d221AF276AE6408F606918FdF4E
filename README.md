@@ -1,2 +1,11 @@
-# 0xE9DfCE6083B32d221AF276AE6408F606918FdF4E
-代币LOGO申请
+{
+ "name": "TokenPocket Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+ "type": "BEP20",
+ "symbol": "TPT",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xE9DfCE6083B32d221AF276AE6408F606918FdF4E"
+}  
